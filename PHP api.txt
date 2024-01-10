@@ -1,0 +1,17 @@
+Need To learn before learning these all :- 
+i) PHP 
+ii) SQL 
+iii) OOP's or need to have knowledge about objects & Classes
+iv) Need to have CRUD operation knowledge
+
+
+Basic Requirements for the PHP api :- 
+
+i) Web Server 
+ii) Database Server 
+iii) Composer Installed
+
+1) Composer || 
+    i) What is composer and why do we need them? 
+    -> Composer is a dependency manager used to install 3rd party packages
+
